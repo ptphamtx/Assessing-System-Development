@@ -1,4 +1,4 @@
-# Assessing System Development
+# Assessing Software Systems
 
 ## What I Know
 
@@ -39,9 +39,9 @@ Understand the difference between unit, integration, and end-to-end testing, and
 
 ## Supporting Work / Knowledge
 
-- **System Development Course 1:** [GitHub Repository](https://github.com/ptphamtx/Data-Mining-2/tree/main)  
-- **System Development Course 2:** [GitHub Repository](https://github.com/ptphamtx/Data-Mining-1/tree/main)  
-- **DataCamp Courses:** [Certificate PDF](https://drive.google.com/file/d/1YLFjpZ7GvVE2THXq3MXS5_z66bnemJBY/view?usp=sharing)
+- **Software Systems Course 1:** [GitHub Repository](https://github.com/ptphamtx/Data-Mining-2/tree/main)  
+- **Software Systems Course 2:** [GitHub Repository](https://github.com/ptphamtx/Data-Mining-1/tree/main)  
+- **DataCamp Course:** [Certificate PDF](https://drive.google.com/file/d/1YLFjpZ7GvVE2THXq3MXS5_z66bnemJBY/view?usp=sharing)
 
 ---
 
